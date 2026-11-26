@@ -1,4 +1,7 @@
+Question:\
 Alternatives techniques to dropout in AI training?
+
+Answer via Google's AI Overview:
 
 Alternatives to dropout prevent overfitting and improve generalization during neural network training without randomly zeroing out activations. [1] (https://medium.com/@Rohan_Dutt/10-regularization-techniques-beyond-dropout-in-ml-you-can-implement-today-17edaf89d5a6), [2] (https://theaisummer.com/regularization/), [3] (https://www.kdnuggets.com/2019/12/5-techniques-prevent-overfitting-neural-networks.html)
 
