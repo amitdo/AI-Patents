@@ -1,4 +1,7 @@
+Question:\
 How non-Google AI frameworks go around Google's dropout patents?
+
+Answer via Google'S AI Overview:
 
 Non-Google AI frameworks like PyTorch do not actually "go around" Google's dropout patents (US9,406,011 and related filings). They implement the standard dropout algorithm directly and rely on industry patent norms, legal deterrents, and practical enforcement barriers rather than technical workarounds. [1] (https://piip.co.kr/en/blog/google-dropout-patent), [2] (https://www.reddit.com/r/MachineLearning/comments/qg4750/d_how_can_companies_like_facebook_use_pytorch_for/), [3] (https://www.businessinsider.com/google-patents-weapon-ai-competitors-openai-chatgpt-2023-5)
 The technical implementation remains standard across frameworks for several legal and practical reasons:
